@@ -1,6 +1,8 @@
-# Learning mantine
+# Learning [mantine](https://mantine.dev/core/center/)
 
 Just one of the things I'm learning. https://github.com/hchiam/learning
+
+Example docs: https://mantine.dev/core/center
 
 It's a component library with utility React [hooks](https://mantine.dev/hooks/use-debounced-value/), Emotion-based CSS-in-JS, [theming with `MantineProvider`](https://mantine.dev/theming/mantine-provider/), and a bunch of [core components](https://mantine.dev/core/breadcrumbs/) as well as [forms](https://mantine.dev/form/use-form/), [notifications](https://mantine.dev/others/notifications/), [rich text editor](https://mantine.dev/others/rte/), [drag-and-drop zones](https://mantine.dev/others/dropzone/), [modals](https://mantine.dev/others/modals/), [dates/calendars](https://mantine.dev/dates/getting-started/), SSR utils, etc.
 
